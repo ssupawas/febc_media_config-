@@ -1,5 +1,4 @@
-    {
-      "version": "12.1.2",
-      "force_update": false
-    }
-    
+{
+  "android": { "version": "12.2.0", "force_update": false },
+  "ios": { "version": "12.2.0", "force_update": false }
+}
