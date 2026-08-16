@@ -2,7 +2,7 @@
   "android": { "version": "12.2.0", "force_update": false },
   "ios": { "version": "12.2.0", "force_update": false },
   "febc_radio": {
-    "android": { "version": "15.0.0", "force_update": false },
-    "ios": { "version": "15.0.0", "force_update": false }
+    "android": { "version": "15.0.1", "force_update": false },
+    "ios": { "version": "15.0.1", "force_update": false }
   }
 }
