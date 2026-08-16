@@ -4,5 +4,8 @@
   "febc_radio": {
     "android": { "version": "15.0.1", "force_update": false },
     "ios": { "version": "15.0.1", "force_update": false }
+  },
+  "thai_hymns_v2": {
+    "android": { "version": "3.1.1", "force_update": false }
   }
 }
