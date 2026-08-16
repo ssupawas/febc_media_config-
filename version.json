@@ -9,7 +9,7 @@
     "android": { "version": "3.1.1", "force_update": false }
   },
   "ttb_thailand": {
-  "android": { "version": "2.5.0", "force_update": false },
-  "ios": { "version": "2.5.0", "force_update": false }
+  "android": { "version": "2.4.0", "force_update": false },
+  "ios": { "version": "7.0.0", "force_update": false }
 }
 }
